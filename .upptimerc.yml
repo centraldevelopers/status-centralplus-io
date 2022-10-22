@@ -13,7 +13,7 @@ sites:
     url: http://cp.admin.v2.prod.s3-website-us-east-1.amazonaws.com
 
 status-website:
-  baseUrl: /status-centralplus-io
+  cname: status.centralplus.io
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Central
 
