@@ -8,9 +8,9 @@ sites:
   - name: App
     url: https://app.centralplus.io
   - name: Admin
-    url: https://admin.centralplus.io
+    url: http://cp.admin.prod.s3-website-us-east-1.amazonaws.com/
   - name: Admin v2
-    url: http://cp.admin.v2.prod.s3-website-us-east-1.amazonaws.com
+    url: https://admin.centralplus.io
 
 status-website:
   cname: status.centralplus.io
