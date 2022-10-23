@@ -3,14 +3,30 @@ owner: centraldevelopers
 repo: status-centralplus-io
 
 sites:
-  - name: Api
+  - name: API::PRODUCTION 
     url: https:/api.centralplus.io
-  - name: App
+  - name: API::BETA
+    url: https:/api-beta.centralplus.io
+  - name: API::ALPHA
+    url: https:/api-alpha.centralplus.io
+  - name: APP::PRODUCTION
     url: https://app.centralplus.io
-  - name: Admin
-    url: http://cp.admin.prod.s3-website-us-east-1.amazonaws.com/
-  - name: Admin v2
+  - name: APP::BETA
+    url: http://cp.app.beta.s3-website-us-east-1.amazonaws.com/
+  - name: APP::ALPHA
+    url: http://cp.app.alpha.s3-website-us-east-1.amazonaws.com/
+  - name: Admin::PRODUCTION
+    url: http://cp.app.prod.s3-website-us-east-1.amazonaws.com/
+  - name: Admin::BETA
+    url: http://cp.admin.beta.s3-website-us-east-1.amazonaws.com/
+  - name: Admin::ALPHA
+    url: http://cp.admin.alpha.s3-website-us-east-1.amazonaws.com/
+  - name: Admin v2::PRODUCTION
     url: https://admin.centralplus.io
+  - name: Admin v2::BETA
+    url: http://cp.admin.v2.beta.s3-website-us-east-1.amazonaws.com/
+  - name: Admin v2::ALPHA
+    url: http://cp.admin.v2.alpha.s3-website-us-east-1.amazonaws.com/
 
 status-website:
   cname: status.centralplus.io
