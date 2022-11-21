@@ -30,7 +30,8 @@ sites:
 
 status-website:
   cname: status.centralplus.io
-  introTitle: "Plataforma para la compra, venta y transferencias de títulos valores."
+  introMessage: "Plataforma para la compra, venta y transferencias de títulos valores."
+  favicon: https://s3.us-east-1.amazonaws.com/cp.files/assets/status-favicon.ico
   logoUrl: https://s3.us-east-1.amazonaws.com/cp.files/assets/LogoPlay.png
   name: Central
 
