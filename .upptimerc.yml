@@ -15,17 +15,17 @@ sites:
     url: http://cp.app.beta.s3-website-us-east-1.amazonaws.com/
   - name: APP::ALPHA
     url: http://cp.app.alpha.s3-website-us-east-1.amazonaws.com/
-  - name: Admin::PRODUCTION
+  - name: ADMIN::PRODUCTION
     url: http://cp.app.prod.s3-website-us-east-1.amazonaws.com/
-  - name: Admin::BETA
+  - name: ADMIN::BETA
     url: http://cp.admin.beta.s3-website-us-east-1.amazonaws.com/
-  - name: Admin::ALPHA
+  - name: ADMIN::ALPHA
     url: http://cp.admin.alpha.s3-website-us-east-1.amazonaws.com/
-  - name: Admin v2::PRODUCTION
+  - name: ADMIN v2::PRODUCTION
     url: https://admin.centralplus.io
-  - name: Admin v2::BETA
+  - name: ADMIN v2::BETA
     url: http://cp.admin.v2.beta.s3-website-us-east-1.amazonaws.com/
-  - name: Admin v2::ALPHA
+  - name: ADMIN v2::ALPHA
     url: http://cp.admin.v2.alpha.s3-website-us-east-1.amazonaws.com/
 
 status-website:
