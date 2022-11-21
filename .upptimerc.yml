@@ -30,7 +30,8 @@ sites:
 
 status-website:
   cname: status.centralplus.io
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introTitle: "Plataforma para la compra, venta y transferencias de títulos valores."
+  logoUrl: https://s3.us-east-1.amazonaws.com/cp.files/assets/LogoPlay.png
   name: Central
 
 # Upptime also supports notifications, assigning issues, and more
