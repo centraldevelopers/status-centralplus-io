@@ -94,19 +94,19 @@
     "url": "http://cp.app.alpha.s3-website-us-east-1.amazonaws.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cp.app.alpha.s3-website-us-east-1.amazonaws.com.ico",
     "slug": "app-alpha",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 133,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
+    "time": 192,
+    "timeDay": 135,
     "timeWeek": 134,
-    "timeMonth": 169,
+    "timeMonth": 168,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-11-29": 0
+      "2023-11-29": 45
     }
   },
   {
