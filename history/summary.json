@@ -4,19 +4,19 @@
     "url": "https:/api.centralplus.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 287,
-    "timeWeek": 227,
-    "timeMonth": 258,
+    "timeDay": 264,
+    "timeWeek": 226,
+    "timeMonth": 257,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 12
     }
   },
   {
