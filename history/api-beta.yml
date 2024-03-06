@@ -1,7 +1,7 @@
 url: https:/api-beta.centralplus.io
-status: down
-code: 502
-responseTime: 269
-lastUpdated: 2024-03-05T23:00:41.947Z
+status: up
+code: 200
+responseTime: 388
+lastUpdated: 2024-03-06T03:30:38.792Z
 startTime: 2022-10-23T00:01:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
