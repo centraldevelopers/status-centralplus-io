@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-08-23": 1367,
+      "2024-08-23": 1378,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -240,14 +240,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "54.60%",
+    "uptimeYear": "54.59%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2024-08-23": 1367,
+      "2024-08-23": 1378,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -496,19 +496,19 @@
     "url": "http://cp.admin.alpha.s3-website-us-east-1.amazonaws.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cp.admin.alpha.s3-website-us-east-1.amazonaws.com.ico",
     "slug": "admin-alpha",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 134,
-    "timeWeek": 142,
+    "timeDay": 129,
+    "timeWeek": 139,
     "timeMonth": 138,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 11
     }
   },
   {
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-08-23": 1367,
+      "2024-08-23": 1378,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
